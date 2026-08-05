@@ -12,7 +12,7 @@
 
 ---
 
-<img src="screenshots/cover.png" alt="SiteScanner Cover" width="800"/>
+<img src="screenshots/cover.png" alt="SiteScanner Cover" width="180"/>
 
 </div>
 
