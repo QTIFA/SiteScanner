@@ -7,7 +7,7 @@
 **A fast, bilingual network diagnostic suite for Android**
 
 [![Android](https://img.shields.io/badge/Android-5.0%2B-3DDC84?logo=android&logoColor=white)](https://android.com)
-
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [⬇ Download APK](#-installation)
 
 ---
@@ -129,6 +129,13 @@ Tap **Import Sites** in the side drawer. The file browser opens — pick any `.t
 | `ACCESS_FINE_LOCATION` | Required by Android for Wi-Fi scanning (API 29+) |
 
 ---
+
+
+<div align="center">
+
+VirusTotal Link: [VirusTotal 0/60](https://www.virustotal.com/gui/file/82a594ae758450bb1145193a8efeeae303d106ae00998cf987035101e365c0b7) 
+
+</div>
 
 <div align="center">
 
