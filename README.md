@@ -10,6 +10,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 
 [⬇ Download APK](#-installation) 
+
 [VirusTotal](https://www.virustotal.com/gui/file/82a594ae758450bb1145193a8efeeae303d106ae00998cf987035101e365c0b7) 
 
 
