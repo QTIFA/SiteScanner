@@ -132,11 +132,11 @@ Tap **Import Sites** in the side drawer. The file browser opens — pick any `.t
 
 <div align="center">
 
-Telegram 🔵 [ifa_max](t.me/ifa_max)
+Telegram 🔵 [ifa_max](https://t.me/ifa_max)
 </div>
 
 <div align="center">
 
-Made with ❤️ — [IFA Scanner](https://github.com/YOUR_USERNAME/SiteScanner)
+Made with ❤️ — [IFA Scanner](https://github.com/QTIFA/SiteScanner)
 
 </div>
